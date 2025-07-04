@@ -108,7 +108,7 @@ A field cheat sheet for identifying attacker behavior through PCAPs, logs, and o
        ____
       /    \  ~ 🎵
     (／＞)(フ)   
-    | ヽ◉-◉|   
+    | ヽ◉ ◉|   
    ／` ミ＿xノ 
   /　　　　 | 
  /　 ヽ　　 ﾉ   
