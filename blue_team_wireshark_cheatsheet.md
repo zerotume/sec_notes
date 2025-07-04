@@ -102,7 +102,7 @@ A field cheat sheet for identifying attacker behavior through PCAPs, logs, and o
 | Collection        | T1005     | File access via SMB |
 | Execution         | T1059     | Remote code via WMI/PsExec |
 
----
+
 
 
        ____
