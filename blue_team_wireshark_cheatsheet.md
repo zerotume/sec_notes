@@ -103,8 +103,8 @@ A field cheat sheet for identifying attacker behavior through PCAPs, logs, and o
 | Execution         | T1059     | Remote code via WMI/PsExec |
 
 
-
-
+---
+···text
        ____
       /    \  ~🎵
     (／＞)(フ)   
@@ -121,3 +121,4 @@ A field cheat sheet for identifying attacker behavior through PCAPs, logs, and o
 |[][][][][][][][]|
 \[][][][][][][][]/
  \______________/
+···
