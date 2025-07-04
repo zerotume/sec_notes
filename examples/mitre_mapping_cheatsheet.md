@@ -27,6 +27,7 @@ Understanding how malware operates is crucial for strategic detection and defens
   - File access / directory listings
   - Registry reads/writes
   - Screenshots, clipboard access
+  - Behavior -> MITRE ATT&CK Tactics and Techniques -> a lot here
 - Check **"Execution Parents"** and **"Calls"** for suspicious APIs.
 
 ### 🕵️‍♂️ Hybrid Analysis (https://www.hybrid-analysis.com)
