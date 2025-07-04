@@ -99,7 +99,7 @@ graph TD;
     E --> F;
     F --> G[Correlate in Sigma/Elastic rules];
     G --> H[Build detection & alert logic];
-
+```
 
 ```text
 💡 Keep this cheatsheet updated with new TIDs and sandbox findings. Your red/blue skills grow with each trace you follow.
