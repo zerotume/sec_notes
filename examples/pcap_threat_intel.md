@@ -32,6 +32,7 @@ http.request.method == "POST"
 dns.qry.name contains "."
 tcp.port == 21 || tcp.port == 23 || tcp.port == 25
 ssl.handshake.extensions_server_name
+tcp.stream eq 0 (and check one by one)
 ```
 
 ---
