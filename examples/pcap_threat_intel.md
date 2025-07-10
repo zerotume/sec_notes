@@ -123,7 +123,7 @@ Use [MITRE Navigator](https://mitre-attack.github.io/attack-navigator/) for visu
 3. **Check Host Pairings**: Who talks to who, and what ports?
 
 Use TCP stream reconstruction to view sessions.
-
+to check how many IPs involved: Statistics → Conversations → IPv4
 ---
 
 ## 🧙 Bonus Tips
